@@ -1,0 +1,6 @@
+﻿{
+	"workDuration": 25,
+	"shortBreakDuration": 5,
+	"sessionsBeforeLongBreak": 4,
+	"autoStartNextSession": false
+}
